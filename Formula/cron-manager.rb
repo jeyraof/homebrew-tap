@@ -1,9 +1,9 @@
 class CronManager < Formula
   desc "Interactive macOS user crontab manager"
   homepage "https://github.com/jeyraof/cron-manager"
-  version "0.2.0"
-  url "https://github.com/jeyraof/cron-manager/releases/download/v0.2.0/cron-manager-v0.2.0-aarch64-apple-darwin.tar.gz"
-  sha256 "6d80cc710c99da20a0e735ca841b7ba496361a4eac664913c3df3c492f7af6a8"
+  version "0.3.0"
+  url "https://github.com/jeyraof/cron-manager/releases/download/v0.3.0/cron-manager-v0.3.0-aarch64-apple-darwin.tar.gz"
+  sha256 "5c2144c474eeefb3a4d71575c03267dec7e3d7d727ebc11c9cab3a254dc18dfe"
 
   depends_on arch: :arm64
 
